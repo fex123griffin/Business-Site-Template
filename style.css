@@ -1,0 +1,16 @@
+footer {
+text-align: center;
+}
+#city {
+width: 2000px;
+height: 550px;
+}
+
+#workplace {
+    width: 2000px;
+    height: 550px;
+}
+
+.body {
+    padding: 15px;
+}
